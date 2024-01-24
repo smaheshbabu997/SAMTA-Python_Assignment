@@ -7,7 +7,7 @@ should calculate and return the area of a rectangle. However, add a condition: i
 is equal to the width, return "This is a square!" instead of the area. Then, write a program to
 input values for length and width from the user and call the calculate_area function to
 display either the area or the message.
-# Task 3: MySQL Database Operations with Python ( Compulsory )
+# Task 3: MySQL Database Operations with Python 
 Problem Statement:
 Your task is to write a Python program that accomplishes the following:
 First create a database , table and add these column ‘student_id’, ‘first_name’, ‘last_name’,
